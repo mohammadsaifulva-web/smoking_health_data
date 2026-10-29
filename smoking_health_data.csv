@@ -1,0 +1,313 @@
+Patient_ID,Age,Age_Group,Gender,Smoking_Status,Cigarettes_Per_Day,Organ_Affected,Health_Condition,BP_Risk,Cholesterol
+PT_001,56,45-59,Male,Never,0,Human Body,Healthy,Low,133
+PT_002,46,45-59,Male,Current,21,Heart,Healthy,Normal,168
+PT_003,32,30-44,Female,Former,7,Kidney,Healthy,High,214
+PT_004,60,60+,Male,Current,5,Human Body,Healthy,Normal,180
+PT_005,25,18-29,Female,Never,0,Heart,Damaged,Normal,194
+PT_006,38,30-44,Female,Former,7,Human Body,Healthy,High,265
+PT_007,56,45-59,Female,Current,23,Kidney,Healthy,High,201
+PT_008,36,30-44,Male,Former,8,Liver,Healthy,Normal,194
+PT_009,40,30-44,Female,Former,3,Kidney,Healthy,High,277
+PT_010,28,18-29,Male,Former,1,Lungs,Healthy,Normal,179
+PT_011,28,18-29,Male,Current,17,Human Body,Healthy,Low,137
+PT_012,41,30-44,Female,Former,8,Human Body,Healthy,High,209
+PT_013,53,45-59,Male,Former,3,Lungs,Healthy,Normal,184
+PT_014,57,45-59,Male,Never,0,Lungs,Healthy,Low,121
+PT_015,41,30-44,Female,Former,2,Liver,Healthy,Low,144
+PT_016,20,18-29,Male,Never,0,Human Body,Damaged,Low,152
+PT_017,39,30-44,Female,Former,1,Human Body,Damaged,Low,155
+PT_018,19,18-29,Female,Former,3,Liver,Damaged,High,213
+PT_019,41,30-44,Female,Never,0,Heart,Damaged,Low,120
+PT_020,61,60+,Male,Former,2,Liver,Damaged,Normal,175
+PT_021,47,45-59,Male,Current,6,Kidney,Damaged,High,253
+PT_022,55,45-59,Female,Current,21,Human Body,Damaged,Low,122
+PT_023,19,18-29,Male,Never,0,Lungs,Damaged,High,240
+PT_024,38,30-44,Female,Former,2,Kidney,Healthy,Normal,165
+PT_025,50,45-59,Female,Former,6,Human Body,Healthy,High,224
+PT_026,29,18-29,Female,Current,23,Liver,Healthy,Normal,172
+PT_027,39,30-44,Male,Current,8,Kidney,Healthy,Low,153
+PT_028,61,60+,Male,Current,5,Human Body,Damaged,High,207
+PT_029,42,30-44,Female,Former,8,Heart,Healthy,High,220
+PT_030,44,30-44,Male,Former,7,Heart,Healthy,High,267
+PT_031,59,45-59,Male,Former,7,Lungs,Damaged,Low,144
+PT_032,45,45-59,Female,Former,3,Human Body,Healthy,Low,134
+PT_033,33,30-44,Female,Never,0,Heart,Healthy,Normal,163
+PT_034,32,30-44,Female,Current,14,Liver,Healthy,Low,131
+PT_035,64,60+,Female,Former,3,Human Body,Healthy,High,231
+PT_036,61,60+,Male,Never,0,Liver,Healthy,Low,151
+PT_037,20,18-29,Female,Former,2,Liver,Damaged,Normal,187
+PT_038,54,45-59,Female,Former,1,Heart,Healthy,High,212
+PT_039,24,18-29,Male,Never,0,Human Body,Damaged,High,230
+PT_040,38,30-44,Male,Never,0,Kidney,Healthy,High,277
+PT_041,26,18-29,Female,Current,22,Heart,Healthy,Normal,179
+PT_042,56,45-59,Female,Never,0,Heart,Healthy,Normal,177
+PT_043,35,30-44,Female,Former,7,Human Body,Healthy,Low,148
+PT_044,21,18-29,Female,Current,12,Human Body,Damaged,Normal,165
+PT_045,42,30-44,Male,Former,1,Liver,Damaged,Normal,191
+PT_046,31,30-44,Male,Never,0,Human Body,Damaged,Low,148
+PT_047,26,18-29,Female,Former,9,Liver,Damaged,Normal,161
+PT_048,43,30-44,Female,Current,7,Heart,Healthy,High,259
+PT_049,19,18-29,Female,Former,8,Lungs,Damaged,High,222
+PT_050,37,30-44,Female,Current,12,Kidney,Damaged,High,230
+PT_051,45,45-59,Male,Current,19,Heart,Healthy,High,204
+PT_052,64,60+,Male,Current,9,Human Body,Healthy,Low,138
+PT_053,24,18-29,Female,Current,7,Kidney,Healthy,Normal,193
+PT_054,61,60+,Female,Current,23,Lungs,Healthy,High,209
+PT_055,25,18-29,Female,Current,5,Lungs,Damaged,High,201
+PT_056,64,60+,Female,Former,8,Liver,Healthy,Low,130
+PT_057,52,45-59,Female,Current,6,Kidney,Healthy,Normal,190
+PT_058,31,30-44,Male,Current,7,Liver,Healthy,High,255
+PT_059,34,30-44,Male,Never,0,Heart,Damaged,Low,134
+PT_060,53,45-59,Male,Former,8,Kidney,Healthy,High,272
+PT_061,57,45-59,Female,Former,8,Heart,Damaged,High,208
+PT_062,21,18-29,Male,Current,18,Liver,Damaged,Normal,194
+PT_063,19,18-29,Male,Current,15,Kidney,Healthy,Normal,180
+PT_064,23,18-29,Male,Current,20,Liver,Healthy,High,272
+PT_065,59,45-59,Male,Current,8,Kidney,Healthy,Normal,187
+PT_066,21,18-29,Female,Current,24,Liver,Damaged,Low,126
+PT_067,46,45-59,Male,Current,9,Lungs,Healthy,Normal,175
+PT_068,35,30-44,Male,Current,18,Liver,Damaged,Low,135
+PT_069,43,30-44,Female,Current,20,Lungs,Damaged,Low,152
+PT_070,61,60+,Male,Former,2,Liver,Healthy,Low,123
+PT_071,51,45-59,Male,Current,11,Kidney,Healthy,Normal,163
+PT_072,27,18-29,Male,Former,7,Kidney,Healthy,High,239
+PT_073,53,45-59,Female,Former,1,Kidney,Healthy,High,216
+PT_074,31,30-44,Male,Former,7,Human Body,Healthy,High,251
+PT_075,48,45-59,Female,Current,23,Heart,Healthy,Normal,188
+PT_076,32,30-44,Male,Never,0,Kidney,Damaged,High,251
+PT_077,25,18-29,Male,Former,3,Lungs,Healthy,Normal,195
+PT_078,31,30-44,Male,Current,8,Kidney,Damaged,Normal,197
+PT_079,40,30-44,Male,Never,0,Human Body,Damaged,High,249
+PT_080,57,45-59,Female,Never,0,Lungs,Healthy,Normal,196
+PT_081,38,30-44,Female,Current,22,Human Body,Healthy,Low,154
+PT_082,33,30-44,Female,Current,6,Lungs,Damaged,Normal,166
+PT_083,62,60+,Male,Never,0,Liver,Damaged,High,226
+PT_084,35,30-44,Male,Former,1,Heart,Healthy,Normal,187
+PT_085,64,60+,Female,Current,19,Heart,Damaged,Normal,181
+PT_086,41,30-44,Male,Current,9,Human Body,Healthy,Normal,173
+PT_087,43,30-44,Male,Former,4,Heart,Healthy,Normal,166
+PT_088,42,30-44,Male,Former,2,Human Body,Healthy,Low,156
+PT_089,62,60+,Male,Former,3,Human Body,Healthy,Low,141
+PT_090,58,45-59,Female,Former,7,Human Body,Healthy,Normal,164
+PT_091,46,45-59,Female,Former,7,Heart,Damaged,Low,121
+PT_092,32,30-44,Female,Former,4,Human Body,Healthy,High,261
+PT_093,62,60+,Male,Current,9,Heart,Healthy,Normal,186
+PT_094,18,18-29,Male,Current,9,Human Body,Damaged,Normal,180
+PT_095,42,30-44,Male,Former,6,Kidney,Healthy,Normal,197
+PT_096,24,18-29,Male,Never,0,Human Body,Healthy,High,278
+PT_097,26,18-29,Male,Former,9,Lungs,Healthy,Low,140
+PT_098,41,30-44,Female,Former,2,Human Body,Healthy,Low,129
+PT_099,18,18-29,Female,Current,16,Liver,Healthy,Low,142
+PT_100,61,60+,Male,Former,3,Human Body,Healthy,High,257
+PT_101,25,18-29,Female,Former,4,Lungs,Healthy,Low,158
+PT_102,41,30-44,Female,Current,16,Lungs,Healthy,Normal,164
+PT_103,28,18-29,Female,Current,21,Heart,Healthy,High,264
+PT_104,34,30-44,Female,Former,8,Kidney,Healthy,Normal,172
+PT_105,25,18-29,Male,Current,18,Human Body,Healthy,Low,140
+PT_106,52,45-59,Male,Current,21,Heart,Damaged,Normal,185
+PT_107,52,45-59,Male,Current,22,Kidney,Healthy,Normal,180
+PT_108,50,45-59,Female,Current,23,Human Body,Healthy,Low,137
+PT_109,22,18-29,Male,Current,21,Liver,Damaged,Normal,196
+PT_110,59,45-59,Male,Never,0,Human Body,Healthy,Normal,191
+PT_111,56,45-59,Male,Former,9,Lungs,Damaged,Low,155
+PT_112,58,45-59,Male,Former,8,Lungs,Damaged,High,259
+PT_113,45,45-59,Female,Never,0,Liver,Healthy,Normal,170
+PT_114,24,18-29,Female,Former,2,Heart,Damaged,Normal,180
+PT_115,26,18-29,Male,Current,17,Kidney,Healthy,Normal,185
+PT_116,25,18-29,Male,Former,9,Human Body,Healthy,Normal,163
+PT_117,29,18-29,Male,Former,7,Lungs,Healthy,Low,153
+PT_118,51,45-59,Male,Former,9,Heart,Damaged,Normal,177
+PT_119,50,45-59,Male,Former,6,Liver,Damaged,High,251
+PT_120,40,30-44,Male,Current,15,Lungs,Healthy,Low,148
+PT_121,41,30-44,Male,Current,18,Liver,Healthy,High,237
+PT_122,54,45-59,Female,Former,4,Human Body,Healthy,High,241
+PT_123,52,45-59,Female,Former,2,Kidney,Damaged,Low,140
+PT_124,61,60+,Male,Former,7,Lungs,Healthy,Low,132
+PT_125,57,45-59,Male,Former,5,Lungs,Healthy,Normal,176
+PT_126,39,30-44,Female,Never,0,Human Body,Healthy,Low,128
+PT_127,44,30-44,Male,Former,6,Heart,Damaged,Low,120
+PT_128,52,45-59,Female,Current,22,Kidney,Healthy,High,201
+PT_129,18,18-29,Female,Current,14,Lungs,Healthy,Low,148
+PT_130,52,45-59,Male,Current,8,Kidney,Healthy,High,209
+PT_131,54,45-59,Male,Current,13,Lungs,Damaged,High,257
+PT_132,64,60+,Female,Current,10,Kidney,Healthy,Low,159
+PT_133,31,30-44,Male,Current,6,Liver,Healthy,Normal,180
+PT_134,20,18-29,Female,Current,21,Lungs,Damaged,Low,147
+PT_135,18,18-29,Female,Current,9,Kidney,Healthy,Low,130
+PT_136,22,18-29,Female,Never,0,Heart,Healthy,Low,153
+PT_137,43,30-44,Male,Current,10,Liver,Damaged,Normal,167
+PT_138,31,30-44,Female,Former,7,Liver,Damaged,Low,141
+PT_139,56,45-59,Male,Former,5,Heart,Healthy,Low,127
+PT_140,44,30-44,Male,Never,0,Kidney,Damaged,High,248
+PT_141,26,18-29,Female,Current,14,Human Body,Healthy,Low,134
+PT_142,32,30-44,Male,Former,6,Heart,Damaged,Low,136
+PT_143,32,30-44,Female,Never,0,Kidney,Healthy,Low,142
+PT_144,43,30-44,Female,Never,0,Heart,Damaged,Low,143
+PT_145,59,45-59,Male,Never,0,Heart,Healthy,Low,138
+PT_146,30,30-44,Male,Current,10,Lungs,Healthy,Low,124
+PT_147,49,45-59,Male,Current,12,Kidney,Healthy,Normal,191
+PT_148,56,45-59,Male,Former,2,Human Body,Healthy,Normal,160
+PT_149,49,45-59,Male,Never,0,Lungs,Damaged,Normal,182
+PT_150,21,18-29,Female,Former,9,Heart,Healthy,Normal,196
+PT_151,47,45-59,Male,Former,5,Heart,Damaged,High,207
+PT_152,54,45-59,Male,Current,11,Heart,Damaged,High,276
+PT_153,40,30-44,Female,Never,0,Kidney,Damaged,High,271
+PT_154,56,45-59,Male,Current,14,Kidney,Healthy,Low,142
+PT_155,62,60+,Female,Current,17,Lungs,Healthy,Normal,160
+PT_156,32,30-44,Male,Former,1,Human Body,Healthy,High,250
+PT_157,60,60+,Male,Former,5,Lungs,Healthy,Normal,183
+PT_158,46,45-59,Female,Current,18,Liver,Damaged,High,223
+PT_159,53,45-59,Female,Current,6,Heart,Healthy,Normal,176
+PT_160,30,30-44,Female,Former,6,Heart,Healthy,Low,124
+PT_161,49,45-59,Female,Current,15,Heart,Healthy,High,219
+PT_162,24,18-29,Female,Former,1,Lungs,Damaged,Low,140
+PT_163,39,30-44,Male,Current,23,Lungs,Healthy,High,257
+PT_164,45,45-59,Male,Former,5,Heart,Healthy,High,230
+PT_165,19,18-29,Female,Former,4,Lungs,Damaged,High,210
+PT_166,59,45-59,Female,Current,23,Kidney,Damaged,Normal,174
+PT_167,62,60+,Female,Current,15,Kidney,Healthy,Low,138
+PT_168,23,18-29,Male,Current,12,Lungs,Healthy,High,206
+PT_169,45,45-59,Male,Current,15,Heart,Damaged,Low,147
+PT_170,45,45-59,Female,Never,0,Lungs,Healthy,Normal,164
+PT_171,61,60+,Male,Current,8,Lungs,Damaged,High,204
+PT_172,61,60+,Female,Never,0,Lungs,Healthy,Low,149
+PT_173,37,30-44,Female,Current,21,Liver,Healthy,High,207
+PT_174,47,45-59,Male,Former,7,Kidney,Healthy,High,263
+PT_175,28,18-29,Female,Never,0,Human Body,Healthy,Normal,169
+PT_176,45,45-59,Female,Former,8,Human Body,Healthy,High,237
+PT_177,42,30-44,Male,Former,3,Liver,Damaged,Low,151
+PT_178,56,45-59,Female,Former,6,Lungs,Healthy,Normal,187
+PT_179,50,45-59,Male,Current,6,Liver,Healthy,High,207
+PT_180,18,18-29,Female,Never,0,Liver,Healthy,Low,159
+PT_181,44,30-44,Male,Never,0,Heart,Damaged,High,224
+PT_182,30,30-44,Female,Never,0,Kidney,Damaged,Normal,168
+PT_183,58,45-59,Male,Current,19,Human Body,Damaged,Low,121
+PT_184,20,18-29,Male,Former,8,Lungs,Healthy,Normal,174
+PT_185,56,45-59,Female,Never,0,Human Body,Damaged,Low,122
+PT_186,23,18-29,Male,Current,9,Human Body,Healthy,High,248
+PT_187,25,18-29,Male,Current,5,Kidney,Healthy,Low,155
+PT_188,44,30-44,Female,Former,4,Human Body,Healthy,Normal,163
+PT_189,26,18-29,Female,Former,4,Human Body,Damaged,Low,133
+PT_190,54,45-59,Female,Never,0,Liver,Healthy,Normal,184
+PT_191,50,45-59,Female,Current,23,Kidney,Healthy,Normal,169
+PT_192,59,45-59,Male,Never,0,Heart,Healthy,High,220
+PT_193,61,60+,Male,Current,7,Lungs,Healthy,High,235
+PT_194,41,30-44,Male,Current,24,Human Body,Healthy,Low,131
+PT_195,32,30-44,Female,Current,15,Lungs,Healthy,Low,146
+PT_196,49,45-59,Female,Never,0,Heart,Damaged,Normal,199
+PT_197,49,45-59,Female,Former,1,Lungs,Damaged,Normal,161
+PT_198,41,30-44,Female,Former,2,Heart,Healthy,Low,132
+PT_199,58,45-59,Male,Former,9,Liver,Healthy,High,252
+PT_200,29,18-29,Male,Never,0,Human Body,Healthy,Normal,191
+PT_201,56,45-59,Male,Former,2,Heart,Healthy,High,215
+PT_202,19,18-29,Male,Never,0,Lungs,Damaged,Normal,191
+PT_203,20,18-29,Male,Former,5,Human Body,Damaged,Low,151
+PT_204,54,45-59,Female,Former,9,Liver,Healthy,Normal,193
+PT_205,34,30-44,Male,Former,9,Human Body,Healthy,High,210
+PT_206,19,18-29,Male,Current,12,Heart,Damaged,Low,129
+PT_207,19,18-29,Male,Former,1,Liver,Healthy,Low,134
+PT_208,45,45-59,Female,Former,1,Lungs,Damaged,Low,136
+PT_209,40,30-44,Female,Current,15,Liver,Healthy,High,239
+PT_210,54,45-59,Male,Never,0,Liver,Damaged,Normal,177
+PT_211,49,45-59,Male,Former,8,Kidney,Healthy,Normal,168
+PT_212,50,45-59,Female,Former,9,Liver,Damaged,High,224
+PT_213,18,18-29,Male,Never,0,Liver,Healthy,High,258
+PT_214,36,30-44,Female,Former,7,Human Body,Damaged,High,277
+PT_215,19,18-29,Female,Current,7,Lungs,Damaged,Low,144
+PT_216,61,60+,Male,Never,0,Human Body,Healthy,Low,141
+PT_217,43,30-44,Male,Former,3,Human Body,Healthy,Low,149
+PT_218,49,45-59,Female,Current,22,Heart,Healthy,High,243
+PT_219,23,18-29,Male,Current,9,Human Body,Damaged,Low,151
+PT_220,49,45-59,Male,Never,0,Kidney,Healthy,Low,140
+PT_221,21,18-29,Female,Former,3,Kidney,Healthy,Low,154
+PT_222,28,18-29,Female,Former,6,Heart,Healthy,Normal,191
+PT_223,34,30-44,Female,Never,0,Lungs,Damaged,High,238
+PT_224,55,45-59,Female,Never,0,Lungs,Healthy,Normal,171
+PT_225,41,30-44,Male,Current,6,Human Body,Damaged,Low,137
+PT_226,22,18-29,Male,Current,16,Human Body,Damaged,Low,140
+PT_227,51,45-59,Female,Current,23,Human Body,Healthy,Normal,172
+PT_228,23,18-29,Female,Former,5,Lungs,Damaged,Normal,180
+PT_229,39,30-44,Male,Current,16,Liver,Healthy,Normal,167
+PT_230,28,18-29,Female,Former,1,Kidney,Healthy,High,245
+PT_231,33,30-44,Male,Never,0,Liver,Healthy,High,206
+PT_232,50,45-59,Male,Never,0,Liver,Healthy,Normal,182
+PT_233,26,18-29,Male,Current,21,Lungs,Damaged,Low,151
+PT_234,23,18-29,Male,Never,0,Liver,Damaged,High,274
+PT_235,33,30-44,Male,Current,14,Heart,Healthy,High,221
+PT_236,46,45-59,Male,Never,0,Human Body,Damaged,High,221
+PT_237,20,18-29,Male,Current,21,Heart,Damaged,Normal,187
+PT_238,37,30-44,Female,Former,8,Kidney,Damaged,High,228
+PT_239,53,45-59,Female,Never,0,Human Body,Damaged,High,212
+PT_240,36,30-44,Female,Current,23,Liver,Healthy,High,201
+PT_241,43,30-44,Female,Current,12,Kidney,Damaged,Low,148
+PT_242,20,18-29,Male,Former,5,Human Body,Healthy,High,278
+PT_243,36,30-44,Male,Former,1,Liver,Healthy,Low,146
+PT_244,37,30-44,Female,Former,7,Heart,Healthy,High,249
+PT_245,49,45-59,Male,Former,5,Human Body,Damaged,Normal,190
+PT_246,24,18-29,Female,Former,6,Liver,Damaged,High,278
+PT_247,58,45-59,Male,Current,20,Heart,Damaged,Low,142
+PT_248,50,45-59,Female,Current,10,Kidney,Healthy,Normal,183
+PT_249,57,45-59,Male,Current,12,Kidney,Healthy,Low,132
+PT_250,56,45-59,Female,Never,0,Kidney,Damaged,Low,141
+PT_251,35,30-44,Male,Former,9,Kidney,Healthy,High,242
+PT_252,57,45-59,Female,Former,2,Lungs,Damaged,Low,156
+PT_253,18,18-29,Male,Former,9,Human Body,Healthy,Normal,192
+PT_254,28,18-29,Female,Never,0,Human Body,Healthy,Normal,162
+PT_255,45,45-59,Female,Current,16,Lungs,Healthy,Normal,178
+PT_256,42,30-44,Male,Former,9,Liver,Healthy,Low,142
+PT_257,40,30-44,Female,Former,7,Liver,Healthy,Normal,188
+PT_258,48,45-59,Female,Former,1,Kidney,Damaged,Low,149
+PT_259,47,45-59,Male,Current,11,Heart,Healthy,High,238
+PT_260,59,45-59,Female,Never,0,Liver,Damaged,Low,144
+PT_261,52,45-59,Female,Never,0,Heart,Healthy,Normal,196
+PT_262,24,18-29,Female,Former,5,Human Body,Healthy,High,207
+PT_263,33,30-44,Male,Former,7,Heart,Healthy,Normal,175
+PT_264,43,30-44,Male,Never,0,Human Body,Healthy,High,271
+PT_265,19,18-29,Female,Former,9,Lungs,Healthy,Low,120
+PT_266,18,18-29,Female,Current,23,Lungs,Healthy,High,204
+PT_267,29,18-29,Male,Former,8,Kidney,Healthy,Low,122
+PT_268,22,18-29,Female,Former,2,Liver,Damaged,Normal,160
+PT_269,54,45-59,Male,Former,7,Kidney,Damaged,Low,123
+PT_270,49,45-59,Male,Former,2,Human Body,Damaged,Normal,199
+PT_271,26,18-29,Male,Never,0,Kidney,Damaged,Normal,194
+PT_272,58,45-59,Male,Never,0,Heart,Healthy,Normal,191
+PT_273,52,45-59,Female,Former,4,Human Body,Damaged,High,263
+PT_274,36,30-44,Male,Current,11,Lungs,Healthy,Low,153
+PT_275,33,30-44,Female,Never,0,Liver,Damaged,High,209
+PT_276,20,18-29,Female,Never,0,Human Body,Damaged,Normal,180
+PT_277,37,30-44,Female,Current,7,Human Body,Healthy,Normal,198
+PT_278,41,30-44,Male,Never,0,Heart,Healthy,Low,146
+PT_279,50,45-59,Male,Never,0,Liver,Healthy,Normal,186
+PT_280,41,30-44,Female,Former,2,Lungs,Healthy,Low,121
+PT_281,28,18-29,Female,Former,7,Human Body,Healthy,Low,132
+PT_282,25,18-29,Male,Former,1,Human Body,Damaged,High,208
+PT_283,53,45-59,Female,Current,18,Heart,Healthy,Normal,195
+PT_284,55,45-59,Female,Current,7,Kidney,Healthy,High,257
+PT_285,57,45-59,Female,Never,0,Lungs,Healthy,Normal,171
+PT_286,37,30-44,Female,Current,16,Liver,Damaged,Normal,176
+PT_287,52,45-59,Female,Current,17,Human Body,Healthy,Normal,173
+PT_288,42,30-44,Male,Former,2,Human Body,Damaged,High,213
+PT_289,52,45-59,Female,Former,3,Lungs,Damaged,High,233
+PT_290,42,30-44,Female,Never,0,Kidney,Damaged,High,252
+PT_291,46,45-59,Male,Current,9,Human Body,Healthy,Low,139
+PT_292,35,30-44,Male,Current,15,Lungs,Healthy,High,274
+PT_293,63,60+,Male,Former,8,Heart,Healthy,Normal,175
+PT_294,35,30-44,Female,Former,7,Kidney,Healthy,Low,150
+PT_295,19,18-29,Female,Current,16,Liver,Healthy,High,269
+PT_296,52,45-59,Male,Former,7,Human Body,Damaged,Low,138
+PT_297,33,30-44,Female,Current,19,Lungs,Damaged,Low,156
+PT_298,58,45-59,Male,Current,21,Heart,Healthy,Low,123
+PT_299,53,45-59,Female,Former,4,Liver,Damaged,Low,123
+PT_300,50,45-59,Female,Former,6,Lungs,Healthy,Normal,179
+PT_301,21,18-29,Female,Never,0,Lungs,Healthy,Low,129
+PT_302,50,45-59,Male,Former,9,Liver,Healthy,Normal,183
+PT_303,31,30-44,Male,Former,2,Heart,Healthy,Normal,194
+PT_304,38,30-44,Male,Former,1,Heart,Healthy,High,225
+PT_305,37,30-44,Male,Current,20,Kidney,Healthy,Normal,196
+PT_306,25,18-29,Female,Former,2,Human Body,Healthy,High,253
+PT_307,24,18-29,Female,Current,7,Liver,Healthy,Normal,199
+PT_308,20,18-29,Female,Never,0,Liver,Damaged,Low,158
+PT_309,34,30-44,Female,Current,14,Liver,Healthy,Normal,180
+PT_310,50,45-59,Female,Former,2,Heart,Healthy,Normal,169
+PT_311,29,18-29,Female,Current,17,Human Body,Damaged,Normal,197
+PT_312,39,30-44,Female,Never,0,Kidney,Healthy,Normal,163
