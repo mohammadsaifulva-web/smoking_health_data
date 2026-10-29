@@ -3,8 +3,7 @@
 An interactive dark-themed data analytics dashboard designed to visualize smoking habits, patient demographics, organ health impacts, and blood pressure/cholesterol risk factors.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](./Smoking_Dashboard.png)
-
+ ![Dashboard Preview](./Smoking%20Dashbaord.png)
 ## 🚀 Project Overview
 This project provides actionable insights into patient health data:
 - **Patient Demographics & KPIs:** Tracks total patients, active/former smokers, smoking rate percentage, and total organ damage counts.
